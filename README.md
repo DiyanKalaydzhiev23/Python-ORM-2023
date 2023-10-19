@@ -1,5 +1,12 @@
 # Python-ORM-2023
 
+# Theory Tests
+
+---
+
+- [Django Models Basics](https://forms.gle/JwTbUtEkddw2Kc2R7)
+
+---
 
 # Plans
 
