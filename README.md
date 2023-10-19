@@ -31,5 +31,6 @@ ORM - Object Relational Mapping
   
 4. Други команди
    - `dbshell` - отваря конзола, в коятоо можем да пишем SQL
+   - `CTRL + ALT + R` - отваря manage.py console
 
 ---
