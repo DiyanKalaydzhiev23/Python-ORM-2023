@@ -12,7 +12,7 @@
 
 ---
 
-- [Migrations and Djnago Admin](https://forms.gle/7G2KzMujkCzHDgPb8)
+- [Migrations and Django Admin](https://forms.gle/7G2KzMujkCzHDgPb8)
 
 ---
 
