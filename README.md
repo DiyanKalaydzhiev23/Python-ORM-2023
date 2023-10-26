@@ -213,7 +213,7 @@ class Migration(migrations.Migration):
    - QuerySet - клас в пайтън, които изпозваме, за да пазим данните от дадена заявка
    - Данните не се взимат, докато не бъдат потърсени от нас
    - cars = Cars.objects.all() # <QuerySet []>
-     print(cars)  # <QuerySet [Car object(1)]>
+   - print(cars)  # <QuerySet [Car object(1)]>
 
    - QuerySet Features: 
      - Lazy Evaluation - примера с колите, заявката не се вика, докато данните не потрябват
