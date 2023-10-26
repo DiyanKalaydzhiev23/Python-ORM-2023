@@ -4,8 +4,6 @@
 
 - [File Zipper](https://github.com/DiyanKalaydzhiev23/FileZipper/tree/main)
 
----
-
 - [Populate Django DB Script](https://github.com/DiyanKalaydzhiev23/PopulateDjangoModel)
 
 # Theory Tests
