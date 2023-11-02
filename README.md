@@ -381,10 +381,11 @@ Django Models Relations
        author = models.ForeignKey(Author, on_delete=models.CASCADE)
    ```
 
-# Access all posts written by an author
+- Access all posts written by an author
+```py
 author = Author.objects.get(id=1)
 author_posts = author.post_set.all()
-
+```
 
 3. Types of relationships
    - Many-To-One (One-To-Many)
