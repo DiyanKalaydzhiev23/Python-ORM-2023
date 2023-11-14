@@ -165,3 +165,13 @@ class Exercise(models.Model):
             difficulty_level__gte=min_difficulty,
             repetitions__gte=min_repetitions
         )
+
+
+class Author(models.Model):
+    first_name = models.CharField(max_length=100)
+    last_name = models.CharField(max_length=100)
+
+
+class Book(models.Model):
+    title = models.CharField(max_length=100)
+    author = models.ForeignKey(to=Author, on_delete=models.CASCADE)
